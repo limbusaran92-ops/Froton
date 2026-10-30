@@ -1,0 +1,6 @@
+{
+  "name": "Funora",
+  "description": "Play, Discover and Enjoy fun mini games, quizzes, personality tests, and daily challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
